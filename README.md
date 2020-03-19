@@ -1,10 +1,9 @@
 # Linked
 Any Link Information Security, Bugbounty, Couse all by mega.nz
 
-=============================
-root@baguslindu :~$
-=============================
-
+====/////////////=====
+root@baguslindu :~ $
+====////////////======
 Bug Bounty Android Hacking : https://mega.nz/#F!jaJ1yaCQ!aheWcbo9LoSwql4T1rUryw
 
 Network Course : https://mega.nz/#F!e75VmKJT!8Kc8MzSWKrhqQE4oVhJooA
