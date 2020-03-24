@@ -5,7 +5,13 @@ Any Link Information Security, Bugbounty, Couse all by mega.nz
 root@baguslindu :~ $
 ====////////////======
 
+Pentester Academy : https://mega.nz/?fbclid=IwAR0uEH3vFfKGoV4080YJNkYrrjbbYPRrxpcxfI3rINmOqEYtUT73P3VyO-k#F!M3ZjXAYT!uAgJMVCfLCE2lCQHltBlDg
 
+Pentester Academy(same but 2 upload) : https://mega.nz/#F!wRFhnIAQ!dK7m_ob7_kaH2Ynh04iyLQ
+
+SecutityTools: https://gist.github.com/jsEveryDay/15f09fad4f892e3bb887c8dc5fe837bc
+
+Any site of learn security : https://gist.github.com/BrinisAAbdelmoumin/503b5364f2974ad9ea2f97ebe8468879
 
 Bug Bounty Android Hacking : https://mega.nz/#F!jaJ1yaCQ!aheWcbo9LoSwql4T1rUryw
 
